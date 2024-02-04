@@ -66,8 +66,10 @@ h2
 {
     display: inline-flex;
     align-items: center;
-    line-height: 24px;
+    line-height: 30px;
     font-size: 20px;
+    margin-bottom: 50px;;
+    margin-top: 10px;
 }
 
 #komputer
@@ -85,6 +87,7 @@ h2
 #tekst2
 {
     margin-top: -20px;
+    margin-right: 20px;
 }
 
 #facebooklink
@@ -98,4 +101,18 @@ h2
     height: 180px;
     margin-bottom: 20px;
     margin-left: 3px;
+    margin-right: 20px;
+}
+
+#tekst3
+{
+    text-align: left;
+    margin-right: 10px;
+}
+
+#prawa
+{
+    margin-top: 10px;
+    text-align: center;
+    color:darkgray;
 }
