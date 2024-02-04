@@ -1,0 +1,101 @@
+* 
+{
+    font-family: 'Montserrat' sans-serif;
+}
+
+body
+{
+    background-size: auto;
+    background-color:rgb(0, 0, 0);
+    color:rgb(217, 221, 220);
+}
+
+#header
+{
+    width: auto;
+    height: auto;
+}
+
+h2
+{
+    text-align: center;
+    font-size: 45px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar
+{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar:hover
+{
+    font-size: 25px;
+    transition: font-size 0.5s;
+}
+
+#linia
+{
+    width: auto;
+    height: 3px;
+    background: linear-gradient( 90deg,#ffa755, #ffffff00);
+}
+
+#glowna
+{
+    margin-left: 30%;
+    margin-right: 30%;
+    width: auto;
+    height: auto;
+}
+
+#podstrony
+{
+    text-align: center;
+    place-items: center;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-size: 20px;
+    word-spacing: 10px;
+    
+}
+
+.content1
+{
+    display: inline-flex;
+    align-items: center;
+    line-height: 24px;
+    font-size: 20px;
+}
+
+#komputer
+{   
+    height: 300px;
+}
+
+#facebook
+{
+    height: 180px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#tekst2
+{
+    margin-top: -20px;
+}
+
+#facebooklink
+{
+    color: white;
+    text-decoration: none;
+}
+
+#github
+{
+    height: 180px;
+    margin-bottom: 20px;
+    margin-left: 3px;
+}
